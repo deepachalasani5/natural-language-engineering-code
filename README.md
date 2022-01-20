@@ -1,0 +1,2 @@
+# natural-language-engineering-code
+ Find the 50 highest frequency word in Wall Street Journal corpus in NLTK.books (text7) (All punctuation removed and all words lowercased.) Language modelling: 1: Build an n gram language model based on nltk’s Brown corpus 2: After step 1, make simple predictions with the language model you have built in question 1. We will start with two simple words – “I am”. Let your n gram model to tell me what will be the next word, show me both code and module generated results 3: Based on the work of question 1 and question 2, generate a few  
